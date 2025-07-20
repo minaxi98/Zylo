@@ -1,9 +1,9 @@
 # Node modules (both in client and server)
-client/node_modules/
+zylo/node_modules/
 server/node_modules/
 
 # Build directories (if using build tools in either part)
-client/dist/
+zylo/dist/
 server/dist/
 
 # .env files
